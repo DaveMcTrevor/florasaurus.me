@@ -1,5 +1,8 @@
-.banner{
-    width: 1175px;
-    height: 87px;
-    background: #80AC94
-}
+#banner {
+    padding: 60px;
+    text-align: center;
+    background: #80AC96;
+    color: white;
+    font-size: 30px;
+  }
+  
