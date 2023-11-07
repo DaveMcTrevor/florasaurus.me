@@ -8,8 +8,11 @@ h1{
 }
 
 h2{
-    font-size: 5vh;
+    font-size: 9vh;
     color:black;
+	margin-left: 3vw;
+	margin-bottom: 0px;
+
 }
 
 .banner{
