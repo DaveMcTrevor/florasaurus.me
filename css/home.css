@@ -70,3 +70,11 @@ h3{
 	margin-left: 5vw;
 	margin-top: 0vh;
 }
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 12vh;
+	width: 50%;
+  }
