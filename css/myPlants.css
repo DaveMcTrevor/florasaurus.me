@@ -11,3 +11,22 @@ h1{
 	margin-top: 0px;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.container{
+	width: 100vw;
+	height: 75vh;
+	margin: 0px;
+}
+
+#cont1{
+	width: 45vw;
+    height: 33vh;
+	background-color: #D9D9D9;
+	margin-left: 2vw;
+	margin-right:2.5vw;
+	margin-top: 3vh;
+	margin-bottom: 5vh;
+
+	border-radius:20px;
+    float: left;
+}
