@@ -1,0 +1,13 @@
+.banner{
+    width: 100vw;
+    height: 13vh;
+    background-color: #86ac86;
+	margin: 0px;
+}
+
+h1{
+    font-size: 10vh;
+    color:black;
+	margin-top: 0px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
