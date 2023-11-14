@@ -77,12 +77,12 @@ h3{
 	font-size:4vh;
 	margin-left: 5vw;
 	margin-top: 0vh;
+	color:black;
 }
 
 .center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 16.5vh;
-	width: 50%;
-  }
+	display:block;
+	margin-left: 7vw;
+	position:absolute;
+	bottom:6vh;
+}
