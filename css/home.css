@@ -2,7 +2,6 @@
 h1{
     font-size: 9vh;
     color:black;
-	margin-left: 40px;
 	margin-top: 0px;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -10,8 +9,8 @@ h1{
 h2{
     font-size: 9vh;
     color:black;
-	margin-left: 3vw;
 	margin-bottom: 0px;
+	margin-left:3vw;
 	margin-top:3vh;
 
 }
@@ -64,7 +63,7 @@ h2{
 	margin-left: 1.125vw;
 	margin-right:2.5vw;
 	margin-top: 3vh;
-	margin-bottom: 5vh;
+	margin-bottom:5vh;
 	border-radius:3%;
 	float: left;
 }
