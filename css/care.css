@@ -19,20 +19,20 @@ h1{
 }
 
 #cont1{
-	width: 46vw;
-    height: 33vh;
+	width: 94vw;
+    height: 200vh;
 	background-color: #D9D9D9;
-	margin-left: 3vw;
+	margin-right:3vw;
 	margin-top: 5vh;
 	margin-bottom: 3vh;
-
+    margin-left:3vw;
 	border-radius:20px;
     float: left;
 }
 
 #cont2{
 	width: 94vw;
-    height: 100vh;
+    height: 145vh;
 	background-color: #D9D9D9;
 	margin-right:3vw;
 	margin-top: 5vh;
@@ -43,49 +43,15 @@ h1{
 }
 
 #cont3{
-	width: 46vw;
-    height: 33vh;
-	background-color: #D9D9D9;
-	margin-left: 3vw;
-	margin-top: 2vh;
-	margin-bottom: 3vh;
-	border-radius:20px;
-    float: left;
-}
-
-#cont4{
-	width: 46vw;
-    height: 33vh;
+	width: 94vw;
+    height: 115vh;
 	background-color: #D9D9D9;
 	margin-right:3vw;
-	margin-top: 2vh;
+	margin-top: 5vh;
 	margin-bottom: 3vh;
-
-	border-radius:20px;
-    float: right;
-}
-
-#cont5{
-	width: 46vw;
-    height: 33vh;
-	background-color: #D9D9D9;
-	margin-left: 3vw;
-	margin-top: 2vh;
-	margin-bottom: 5vh;
+    margin-left:3vw;
 	border-radius:20px;
     float: left;
-}
-
-#cont6{
-	width: 46vw;
-    height: 33vh;
-	background-color: #D9D9D9;
-	margin-right:3vw;
-	margin-top: 2vh;
-	margin-bottom: 5vh;
-
-	border-radius:20px;
-    float: right;
 }
 
 h2{
@@ -98,12 +64,12 @@ h2{
 }
 
 header{
-    font-size:6vh;
+    font-size:3vh;
     color: black;
-    margin-top: 0;
+    margin-top: 2vh;
     margin-left:2vw;
-    margin-bottom:7vh;
-    margin-right:0;
+    margin-bottom:2vh;
+    margin-right:2vw;
 }
 
 p{
