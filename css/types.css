@@ -19,73 +19,86 @@ h1{
 }
 
 #cont1{
-	width: 46vw;
-    height: 33vh;
-	background-color: #D9D9D9;
-	margin-left: 3vw;
-	margin-top: 5vh;
-	margin-bottom: 3vh;
-
-	border-radius:20px;
+    width: 30vw;
+    height: 75vh;
+    background-color: #D9D9D9;
+    margin-left: 2.5vw;
+    margin-right:1.125vw;
+    margin-top: 3vh;
+    border-radius:10%;
+    border-radius:3%;
     float: left;
 }
 
-#cont2{
-	width: 46vw;
-    height: 33vh;
-	background-color: #D9D9D9;
-	margin-right:3vw;
-	margin-top: 5vh;
-	margin-bottom: 3vh;
 
-	border-radius:20px;
-    float: right;
+
+#cont2{
+	width: 30vw;
+    height: 75vh;
+	background-color: #D9D9D9;
+	margin-left: 1.125vw;
+	margin-right:1.125vw;
+	margin-top: 3vh;
+	margin-bottom: 5vh;
+	border-radius:3%;
+	float: left;
 }
 
 #cont3{
-	width: 46vw;
-    height: 33vh;
+	width: 30vw;
+    height: 75vh;
 	background-color: #D9D9D9;
-	margin-left: 3vw;
-	margin-top: 2vh;
-	margin-bottom: 3vh;
-	border-radius:20px;
-    float: left;
+	margin-left: 1.125vw;
+	margin-right:2.5vw;
+	margin-top: 3vh;
+	margin-bottom:5vh;
+	border-radius:3%;
+	float: left;
 }
 
 #cont4{
-	width: 46vw;
-    height: 33vh;
-	background-color: #D9D9D9;
-	margin-right:3vw;
-	margin-top: 2vh;
-	margin-bottom: 3vh;
+    width: 30vw;
+    height: 75vh;
+    background-color: #D9D9D9;
+    margin-left: 2.5vw;
+    margin-right:1.125vw;
+    margin-top: 3vh;
+    margin-bottom: 0vh;
 
-	border-radius:20px;
-    float: right;
-}
 
-#cont5{
-	width: 46vw;
-    height: 33vh;
-	background-color: #D9D9D9;
-	margin-left: 3vw;
-	margin-top: 2vh;
-	margin-bottom: 5vh;
-	border-radius:20px;
+    border-radius:10%;
+
+
+    border-radius:3%;
+
+
     float: left;
 }
 
-#cont6{
-	width: 46vw;
-    height: 33vh;
-	background-color: #D9D9D9;
-	margin-right:3vw;
-	margin-top: 2vh;
-	margin-bottom: 5vh;
 
-	border-radius:20px;
-    float: right;
+
+#cont5{
+	width: 30vw;
+    height: 75vh;
+	background-color: #D9D9D9;
+	margin-left: 1.125vw;
+	margin-right:1.125vw;
+	margin-top: 3vh;
+	margin-bottom: 5vh;
+	border-radius:3%;
+	float: left;
+}
+
+#cont6{
+	width: 30vw;
+    height: 75vh;
+	background-color: #D9D9D9;
+	margin-left: 1.125vw;
+	margin-right:2.5vw;
+	margin-top: 3vh;
+	margin-bottom:5vh;
+	border-radius:3%;
+	float: left;
 }
 
 h2{
