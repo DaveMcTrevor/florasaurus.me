@@ -6,9 +6,12 @@ h1{
 }
 
 h2{
-    font-size: 9vh;
-    color:black;
+    font-size: 7vh;
+    color:rgb(44, 44, 44);
 	margin-bottom: 0px;
+	font-family: tahoma, sans-serif;
+	font-style: normal;
+	font-weight:400;
 	margin-left:3vw;
 	margin-top:3vh;
 
