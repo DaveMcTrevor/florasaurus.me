@@ -15,3 +15,38 @@ h1{
 body{
 	background-color: #F5F5F5;
 }
+
+.container{
+	width: 100vw;
+	height: 100vh;
+	margin: 0px;
+}
+
+
+#side1{
+    width: 50vw;
+    height: 75vh;
+    background-color: #D9D9D9;
+    margin-left: 22vw;
+    margin-right:1vw;
+    margin-top: 0vh;
+    margin-bottom: 0vh;
+    text-align: center;
+    border-radius:1.5%;
+    float: left;
+}
+
+h2{
+    font-size: 4vh;
+    color: #878787;
+	margin-bottom: 0px;
+	margin-left:3vw;
+	margin-top:3vh;
+}
+
+label{
+    font-size:2vh;
+    color: #6E988B;
+    margin-top: 10vh;
+
+}
