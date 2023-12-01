@@ -12,6 +12,7 @@ h1{
 	margin-right: 3%;
 
   }
+
   
   /* Style the links inside the navigation bar */
   .topnav a {
@@ -47,6 +48,10 @@ body{
 	background-color: #F5F5F5;
 }
 
+.container1{
+    
+
+}
 .container{
 	width: 100vw;
 	height: 100vh;
