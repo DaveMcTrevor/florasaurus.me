@@ -57,6 +57,7 @@ label{
     color: #6E988B;
 }
 
+/*button css*/
 input[type=button], input[type=submit], input[type=reset] {
     background-color: #6E988B;
   border: none;
