@@ -17,6 +17,36 @@ h2{
 
 }
 
+/*NAV BAR!!!*/
+.topnav {
+	background-color: #86ac86;
+	margin-right: 3%;
+
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+	float: Right;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family: verdana;
+	font-size: 14px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+	background-color: #507e55;
+	color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+	background-color: #a8dbbc;
+	color: white;
+  }
+
 .banner{
     width: 100vw;
     height: 13vh;
