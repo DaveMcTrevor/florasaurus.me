@@ -20,7 +20,8 @@ h2{
 
 .topnav {
 	background-color: #86ac86;
-	
+	margin-right: 3%;
+
   }
   
   /* Style the links inside the navigation bar */
@@ -30,6 +31,7 @@ h2{
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+	font-family: verdana;
 	font-size: 14px;
   }
   
@@ -41,7 +43,7 @@ h2{
   
   /* Add a color to the active/current link */
   .topnav a.active {
-	background-color: #a7a7a7;
+	background-color: #a8dbbc;
 	color: white;
   }
 

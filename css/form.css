@@ -38,14 +38,19 @@ body{
 
 h2{
     font-size: 4vh;
+    font-family: verdana;
+	font-weight: 400;
     color: #878787;
 	margin-bottom: 0px;
-	margin-left:3vw;
+	margin-left:1vw;
 	margin-top:3vh;
 }
 
 label{
+    margin-top:10%;
     font-size:2vh;
+    font-family: verdana;
+	font-weight: 400;
     color: #6E988B;
     margin-top: 10vh;
 
