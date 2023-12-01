@@ -35,15 +35,15 @@ h2{
 	font-size: 14px;
   }
   
-  /* Change the color of links on hover */
+  /* To Change the color of links on hover */
   .topnav a:hover {
 	background-color: #507e55;
 	color: black;
   }
   
-  /* Add a color to the active/current link */
+  /* To Add a color to the active/current link */
   .topnav a.active {
-	background-color: #a8dbbc;
+	background-color: #649c6a;
 	color: white;
   }
 

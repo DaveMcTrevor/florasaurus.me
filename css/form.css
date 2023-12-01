@@ -32,7 +32,7 @@ h1{
   
   /* Add a color to the active/current link */
   .topnav a.active {
-	background-color: #a8dbbc;
+	background-color: #649c6a;
 	color: white;
   }
 
@@ -87,6 +87,7 @@ label{
     color: #6E988B;
 }
 
+/*button css*/
 input[type=button], input[type=submit], input[type=reset] {
     background-color: #6E988B;
   border: none;
