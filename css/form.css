@@ -1,3 +1,4 @@
+/*PLANTASAURUS*/
 h1{
     font-size: 10vh;
     color:#ebebeb;
@@ -22,7 +23,7 @@ body{
 	margin: 0px;
 }
 
-
+/*main box*/
 #side1{
     width: 50vw;
     height: 75vh;
@@ -34,24 +35,37 @@ body{
     text-align: center;
     border-radius:1.5%;
     float: left;
+
+
 }
 
+/*contact us for plant advice*/
 h2{
     font-size: 4vh;
     font-family: verdana;
 	font-weight: 400;
     color: #878787;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 	margin-left:1vw;
 	margin-top:3vh;
 }
 
 label{
-    margin-top:10%;
     font-size:2vh;
     font-family: verdana;
 	font-weight: 400;
     color: #6E988B;
-    margin-top: 10vh;
+}
 
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #6E988B;
+  border: none;
+  border-radius: 9px;
+  color: white;
+  padding: 13px 30px;
+  text-decoration: none;
+  margin: 4px 2px;
+  font-family: verdana;
+  font-weight: 400;
+  cursor: default;
 }
