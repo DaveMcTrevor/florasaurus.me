@@ -17,7 +17,7 @@ h2{
 
 }
 
-
+/*NAV BAR!!!*/
 .topnav {
 	background-color: #86ac86;
 	margin-right: 3%;
@@ -52,7 +52,7 @@ h2{
 
 
 .banner{
-    width: 100vw;
+    width: 100%;
     height: 13vh;
     background-color: #86ac86;
 	margin: 0px;
