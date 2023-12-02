@@ -37,6 +37,18 @@ h1{
 	color: white;
   }
 
+  #side2{
+    display:flex;
+	flex-direction:column;
+	justify-content: space-between;
+    /*justify-content:absolute;*/
+    width:20vw;
+    Height:30vh;
+    margin-left:0vw;
+    margin-bottom:0vh;
+    flex-wrap: wrap;
+   
+}
 .banner{
     width: 100vw;
     height: 13vh;
@@ -54,18 +66,6 @@ body{
 	margin: 0px;
 }
 
-#side2{
-    display:flex;
-	flex-direction:column;
-	justify-content: space-between;
-    /*justify-content:absolute;*/
-    width:20vw;
-    Height:30vh;
-    margin-left:0vw;
-    margin-bottom:0vh;
-    flex-wrap: wrap;
-   
-}
 /*main box*/
 #side1{
     width: 50vw;
