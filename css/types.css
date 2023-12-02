@@ -68,7 +68,6 @@ h1{
 	margin-left: 1.125vw;
 	margin-right:1.125vw;
 	margin-top: 3vh;
-	margin-bottom: 5vh;
 	border-radius:1.5%;
 	float: left;
 }
@@ -80,7 +79,6 @@ h1{
 	margin-left: 1.125vw;
 	margin-right:2.5vw;
 	margin-top: 3vh;
-	margin-bottom:5vh;
 	border-radius:1.5%;
 	float: left;
 }
@@ -206,6 +204,7 @@ p{
 		margin-left:1vw;
 		margin-right:5vh;
 		font-size: 7vh;
+		margin-top: 3vh;
 	}
 	#cont3{
 		float:left;
@@ -213,6 +212,7 @@ p{
 		margin-left:1vw;
 		margin-right:5vh;
 		margin-top:0px;
+		margin-top: 3vh;
 		
 	}
 
