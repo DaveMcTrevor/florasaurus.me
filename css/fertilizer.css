@@ -86,7 +86,8 @@ h2{
 
 header{
     font-size:3vh;
-    color:#313131;;
+    color:#313131;
+    font-weight:bold;
     font-family: sans-serif;
     margin-top: 2vh;
     margin-left:2vw;
