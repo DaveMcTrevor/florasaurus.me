@@ -121,7 +121,7 @@ body{
 	}
 }
 
-@media screen and (max-width:820px){
+@media screen and (max-width:800px){
 	h1{
 		position:relative;
 		font-size: 40px;
@@ -129,7 +129,7 @@ body{
 	}
 }
 
-@media screen and (max-width:785px){
+@media screen and (max-width:710px){
 	h1{
 		position:relative;
 		font-size: 25px;
@@ -137,17 +137,29 @@ body{
 	}
 }
 
-@media screen and (max-width:980){
+@media screen and (max-width:550px){
 	.container{
 		width:33vw;
 		height:240vh;
 		margin-bottom:5vh;
 	}
 
+	#side1{
+		width:90vw;
+		margin-left:5vw;
+		margin-right:5vh;
+	}
 	#side2{
-		float:left
+		float:left;
+		width:90vw;
+		margin-left:5vw;
+		margin-right:5vh;
 	}
 	#side3{
-		float:left
+		float:left;
+		width:90vw;
+		margin-left:5vw;
+		margin-right:5vh;
+		margin-top:0px;
 	}
 }
