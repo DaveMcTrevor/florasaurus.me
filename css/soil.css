@@ -61,7 +61,8 @@ h1{
 }
 h2{
     font-size:7vh;
-    color: black;
+    font-family: sans-serif;
+    color:#313131;
     margin-left:2vw;
     margin-top:5vh;
     margin-bottom: 0vh;;
@@ -70,7 +71,9 @@ h2{
 
 header{
     font-size:3vh;
-    color: black;
+    font-family: sans-serif;
+    font-weight:bold;
+    color:#313131;
     margin-top: 2vh;
     margin-left:2vw;
     margin-bottom:2vh;
@@ -81,16 +84,22 @@ p{
     margin-left:2vw;
     margin-right:2vw;
     font-size: 3vh;
+    font-family: sans-serif;
     font-weight: bold;
+    color:#313131;
     margin-bottom:0vh;
     margin-top:1vh;
+
 }
 
 span{
     font-weight: bold;
+    color:#313131;
 }
 
 li{
     margin-left:2vw;
     margin-right:2vw;
+    font-family: Noto Sans, sans-serif;
+    color:#313131;
 }
