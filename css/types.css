@@ -123,7 +123,8 @@ h1{
 
 h2{
     font-size:40px;
-    color: black;
+    font-family: sans-serif;
+    color:#313131;
     margin-left:2vw;
     margin-top:5vh;
     margin-bottom:0;
@@ -132,7 +133,8 @@ h2{
 
 header{
     font-size:6vh;
-    color: black;
+    font-family:sans-serif;
+    color:#313131;
     margin-top: 0;
     margin-left:2vw;
     margin-bottom:7vh;
@@ -143,6 +145,8 @@ p{
     margin-left:2vw;
     margin-right:2vw;
     font-size: 15px;
+    line-height: 3vh;
+    font-family: Noto Sans, sans-serif;
 }
 
 @media screen and (max-width:1150px){
