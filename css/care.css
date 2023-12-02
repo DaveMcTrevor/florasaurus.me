@@ -137,6 +137,18 @@ body{
 	}
 }
 
+@media screen and (max-width:900px){
+	h2{
+		font-size: 40px;
+	}
+}
+
+@media screen and (max-width:700px){
+	h2{
+		font-size: 30px;
+	}
+}
+
 @media screen and (max-width:550px){
 	.container{
 		width:33vw;
@@ -146,20 +158,27 @@ body{
 
 	#side1{
 		width:90vw;
-		margin-left:5vw;
+		margin-left:1vw;
 		margin-right:5vh;
 	}
 	#side2{
 		float:left;
 		width:90vw;
-		margin-left:5vw;
+		margin-left:1vw;
 		margin-right:5vh;
+		font-size: 7vh;
 	}
 	#side3{
 		float:left;
 		width:90vw;
-		margin-left:5vw;
+		margin-left:1vw;
 		margin-right:5vh;
 		margin-top:0px;
+		
+	}
+
+	h2{
+		font-size: 7vh;
 	}
 }
+
