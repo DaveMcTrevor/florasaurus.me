@@ -110,8 +110,9 @@ span{
 }
 
 li{
-   font-family: Noto Sans, sans-serif; 
-    margin-left:2vw;
+    font-family: Noto Sans, sans-serif;
+    margin-left:3vw;
     margin-right:2vw;
+    line-height: 6vh;
     color:#313131;
 }
