@@ -27,11 +27,11 @@
 	background-color: #a8dbbc;
 	color: white;
   }
-  
+
 .banner{
     width: 100vw;
     height: 13vh;
-    background-color: #86ac86;
+    background-color: #649c6a;
 	margin: 0px;
 }
 
@@ -59,6 +59,19 @@ h1{
 	border-radius:10px;
     float: left;
 }
+
+#cont2{
+	width: 94vw;
+    height: 145vh;
+	background-color: #D9D9D9;
+	margin-right:3vw;
+	margin-top: 5vh;
+	margin-bottom: 3vh;
+    margin-left:3vw;
+	border-radius:10px;
+    float: left;
+}
+
 h2{
     font-size:7vh;
     color: black;
