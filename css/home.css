@@ -137,21 +137,28 @@ h3{
 		font-size: 50px;
 		padding:25px
 	}
+
+	.topnav a {
+		font-size: 12px;
+	}
 }
 
-@media screen and (max-width:800px){
+@media screen and (max-width:740px){
 	h1{
 		position:relative;
 		font-size: 40px;
 		padding:35px
 	}
+
+	.topnav a {
+		font-size: 10px;
+	}
 }
 
-@media screen and (max-width:710px){
-	h1{
-		position:relative;
-		font-size: 25px;
-		padding:48px;
+@media screen and (max-width:650px){
+	
+	.topnav a {
+		font-size: 5px;
 	}
 }
 
@@ -198,7 +205,4 @@ h3{
 		font-size: 7vh;
 	}
 
-	.topnav a {
-		font-size: 10px;
-	}
 }
