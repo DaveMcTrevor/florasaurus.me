@@ -28,17 +28,17 @@
 	color: white;
   }
 
-.banner{
+  .banner{
     width: 100vw;
-    height: 13vh;
-    background-color:#86ac86;
+    height: 100px;
+    background-color: #86ac86;
 	margin: 0px;
 }
 
 h1{
-    font-size: 10vh;
+    font-size: 75px;
     color:#ebebeb;
-	margin-top: 0px;
+	margin-top:0px;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -51,11 +51,11 @@ h1{
 #cont1{
 	overflow:auto;
     width: 94vw;
-    height: 200vh;
+    height: 36vh;
 	background-color: #D9D9D9;
 	margin-right:3vw;
-	margin-top: 5vh;
-	margin-bottom: 3vh;
+	margin-top: 4vh;
+	margin-bottom: 0vh;
     margin-left:3vw;
 	border-radius:10px;
     float: left;
@@ -64,10 +64,10 @@ h1{
 #cont2{
 	overflow:auto;
     width: 94vw;
-    height: 145vh;
+    height: 36vh;
 	background-color: #D9D9D9;
 	margin-right:3vw;
-	margin-top: 5vh;
+	margin-top: 4vh;
 	margin-bottom: 3vh;
     margin-left:3vw;
 	border-radius:10px;
@@ -75,13 +75,32 @@ h1{
 }
 
 h2{
-    font-size:7vh;
-    color:#313131;;
+    font-size:5vh;
+    color:#313131;
     font-family: sans-serif;
     margin-left:2vw;
-    margin-top:5vh;
-    margin-bottom: 0vh;;
+    margin-top:3vh;
+    margin-bottom: 3vh;;
     margin-right:0;
+}
+
+.h3{
+    font-size:3vh;
+    color: #313131; 
+    background-color: #a8a8a7; 
+    height: 5vh; 
+    width: 10vw; 
+    padding-left: 1vw; 
+    padding-right: 1vw; 
+    padding-top: 1vh; 
+    padding-bottom: 1vh; 
+    text-decoration: none;
+    margin-top:20vh;
+    margin-bottom:5vh;
+    margin-left:0vw;
+    margin-right:0vw;
+    border-radius:3%;
+    line-height:200%
 }
 
 header{
@@ -119,3 +138,76 @@ li{
     line-height: 6vh;
     color:#313131;
 }
+
+@media screen and (max-width:980px){
+	h1{
+		position:relative;
+		font-size: 50px;
+		padding:25px
+	}
+
+	.topnav a {
+		font-size: 12px;
+	}
+}
+
+@media screen and (max-width:760px){
+	h1{
+		position:relative;
+		font-size: 40px;
+		padding:35px
+	}
+
+	.topnav a {
+		font-size: 10px;
+	}
+}
+
+@media screen and (max-width:650px){
+	
+	.topnav a {
+		font-size: 5px;
+	}
+}
+
+@media screen and (max-width:1300px){
+	.h3{
+        font-size:15px;
+        line-height:38px
+    }
+
+}
+
+@media screen and (max-width:900px){
+	.h3{
+        font-size:10px;
+        line-height:32px
+    }
+}
+
+@media screen and (max-width:600px){
+	.h3{
+        font-size:5px;
+        line-height:24px;
+    }
+
+    h2{
+        font-size: 25px;
+    }
+
+    p{
+        font-size:15px;
+        line-height: 10px;
+    }
+
+    li{
+        font-size:8px;
+        line-height: 10px;
+    }
+
+    header{
+        font-size:18px;
+    }
+}
+
+
