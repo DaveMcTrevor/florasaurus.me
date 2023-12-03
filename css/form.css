@@ -37,18 +37,6 @@ h1{
 	color: white;
   }
 
-  #side2{
-    display:flex;
-	flex-direction:column;
-	justify-content: space-between;
-    /*justify-content:absolute;*/
-    width:20vw;
-    Height:30vh;
-    margin-left:0vw;
-    margin-bottom:0vh;
-    flex-wrap: wrap;
-   
-}
 .banner{
     width: 100vw;
     height: 13vh;
@@ -58,6 +46,7 @@ h1{
 
 body{
 	background-color: #F5F5F5;
+    background-image: url(/Users/minamayerczak/Documents/GitHub/Plant-Project/Pictures/vector.png);
 }
 
 .container{
@@ -66,12 +55,11 @@ body{
 	margin: 0px;
 }
 
-/*picture*/
+/*picture
 #side2{
     display:flex;
 	flex-direction:column;
-	justify-content: space-between;
-    /*justify-content:absolute;*/
+    /*justify-content:absolute;
     width:20vw;
     Height:30vh;
     margin-left:0vw;
@@ -79,6 +67,10 @@ body{
     flex-wrap: wrap;
    
 }
+/*
+
+
+
 /*main box*/
 #side1{
     width: 50vw;
