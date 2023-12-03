@@ -59,6 +59,9 @@ h1{
     margin-left:3vw;
 	border-radius:10px;
     float: left;
+    font-family: sans-serif;
+    color:#313131;
+    font-weight:500;
 }
 
 #cont2{
@@ -72,6 +75,9 @@ h1{
     margin-left:3vw;
 	border-radius:10px;
     float: left;
+    font-family: sans-serif;
+    color:#313131;
+    font-weight:500;
 }
 
 h2{
