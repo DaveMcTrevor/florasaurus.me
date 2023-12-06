@@ -36,24 +36,24 @@
 		<div class="container">
 			<div id="side1">
 				<h2>Contact us for plant advice!</h2>
-				<form action="/action_page.php">
+				<form action="mailto:some.random.email.2424@gmail.com">
 					<label for="question">Your Question Topic:</label><br>
-					<input type="text" id="fname" size=50 name="fname" target="_self"><br>
+					<input type="text" id="question" size=50 name="question" target="_self"  required><br>
 					<br>
 					<label for="email">Enter Your Viable Email:</label><br>
-					<input type="text" id="lname" size=50 name="lname" target="_self"><br>
+					<input type="email" id="email" size=50 name="email" target="_self" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" title="Invalid email address" required><br>
 					<br>
 					<label for="fname">First Name:</label><br>
-					<input type="text" id="fname" size=50 name="fname" target="_self"><br>
+					<input type="fname" id="fname" size=50 name="fname" target="_self" pattern="[A-Za-z0-9]+" required><br>
 					<br>
 					<label for="lname">Last Name:</label><br>
-					<input type="text" id="lname" size=50 name="lname" target="_self"> <br>
+					<input type="lname" id="lname" size=50 name="lname" target="_self" pattern="[A-Za-z0-9]+" required> <br>
 					<br>
 					<label for="message">Message:</label><br>
-					<!--<input type="text" id="fname" name="fname" target="_self"><br> -->
-					<textarea rows="10" cols="40"></textarea><br/>
+					<!--<input type="text" id="message" name="message" target="_self"><br> -->
+					<textarea rows="10" cols="40"  required></textarea><br/>
 					<br>
-					<input type="submit" value="Submit">
+					<input type="submit" id="submit" value="Submit">
 				  </form>
 			</div>	
 		</div>
