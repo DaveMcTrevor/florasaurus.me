@@ -121,7 +121,7 @@ h1{
 	margin-left: 1.125vw;
 	margin-right:1.125vw;
 	margin-top: 3vh;
-	margin-bottom: 5vh;
+	margin-bottom: 0vh;
 	border-radius:1.5%;
 	float: left;
 }
@@ -177,7 +177,7 @@ p{
     margin-left:2vw;
     margin-right:2vw;
 	margin-top:1vh;
-    font-size: 13px;
+    font-size: 12px;
     line-height: 20px;
     font-family: Noto Sans, sans-serif;
 }
