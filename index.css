@@ -55,11 +55,7 @@ h2{
 }
 
 
-.container{
-	width: 100vw;
-	height: 75vh;
-	margin: 0px;
-}
+
 
 
 #side1{
@@ -174,7 +170,7 @@ h3{
 	}
 }
 
-@media screen and (max-width:850px){
+@media screen and (max-width:550px){
 	.container{
 		width:33vw;
 		height:240vh;
