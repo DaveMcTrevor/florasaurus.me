@@ -14,6 +14,7 @@ h2{
 	margin-bottom: 0px;
 	margin-left:3vw;
 	margin-top:3vh;
+	line-height:40px;
 
 }
 
@@ -47,6 +48,10 @@ h2{
 	color: white;
   }
 
+
+
+
+
 .banner{
     width: 100vw;
     height: 100px;
@@ -54,11 +59,13 @@ h2{
 	margin: 0px;
 }
 
+
 .container{
-    width: 100vw;
-    height: 74vh;
-    margin: 0px;
+	width: 100vw;
+	height: 75vh;
+	margin: 0px;
 }
+
 
 #side1{
 	display:flex;
@@ -112,11 +119,12 @@ body{
 	background-color: #F5F5F5;
 }
 
-h3{
+
+span{
 	font-size:3.5vh;
 	font-family: verdana;
 	font-weight: 400;
-	margin-left: 5vw;
+	margin-left: 3vw;
 	margin-top: 0px;
 	margin-bottom:0px;
 	color:black;
@@ -172,7 +180,7 @@ h3{
 	}
 }
 
-@media screen and (max-width:1200px){
+@media screen and (max-width:900px){
 	.container{
 		width:33vw;
 		height:240vh;
