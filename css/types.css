@@ -201,36 +201,6 @@ table, th, td {
 
 }
 
-@media screen and (max-width:980px){
-	h1{
-		position:relative;
-		font-size: 50px;
-		padding:25px
-	}
-
-}
-
-@media screen and (max-width:800px){
-	h1{
-		position:relative;
-		font-size: 40px;
-		padding:35px
-	}
-    p{
-        font-size:10px;
-    }
-}
-
-@media screen and (max-width:710px){
-	h1{
-		position:relative;
-		font-size: 25px;
-		padding:48px;
-	}
-}
-
-
-
 @media screen and (max-width:550px){
 	.container{
 		width:33vw;
