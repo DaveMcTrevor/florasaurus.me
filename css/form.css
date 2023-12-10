@@ -6,24 +6,16 @@ h1{
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.banner{
-    width: 100vw;
-    height: 100px;
-    background-color: #86ac86;
-	margin: 0px;
-}
-
 /*NAV BAR!!!*/
 .topnav {
 	background-color: #86ac86;
 	margin-right: 3%;
 
   }
-
   
   /* Style the links inside the navigation bar */
   .topnav a {
-	float:Right;
+	float: Right;
 	color: #f2f2f2;
 	text-align: center;
 	padding: 14px 16px;
@@ -44,7 +36,7 @@ h1{
 	color: white;
   }
 
-.banner{
+  .banner{
     width: 100vw;
     height: 100px;
     background-color: #86ac86;
